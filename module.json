@@ -1,0 +1,9 @@
+{
+    "id": "testytest",
+    "title": "Testy Test",
+    "description": "Test module for Vite+Svelte+Typescript.",
+    "version": "0.0.1",
+    "esmodules": [
+        "main.js"
+    ]
+}
